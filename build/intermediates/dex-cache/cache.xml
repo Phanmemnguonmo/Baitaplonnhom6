@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_902aea287d11f9b055b61f110bd5c38490d60789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b3a4971c5a99e734a72451ce993ecfc293c0a8ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Windows 10\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_a952d64ad9b227144a3ff304c6016f8060450150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_55189a72797ecb17b8f6df7336e46240f41367b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_75cb7c50923ef3dd5b2c3c1a5fdf365643b0d565.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_d777557d7afe23cbc9d1c898be93174cc5d77768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_d10c840cb9ab72a6387a3a283098f231c01c2ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_4beb9e8303272a9a5530a7482419b61a9f00df67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b5122835e764495da8bae1712360998a22a997f6">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\instant-run_bb59736cdfeccc1355284e13e90471babcc0e53c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_336307b6ea26b7b352e18530405e5b3c405bf37f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_9d43172636d94c99ba9aac4457d837f9d3fbd30d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_967d91fd30446a88c19c56205d9e44167014e902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_59804cac328c400af489c8ec21c4bd0802dac392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_171b3399a0df3dd2b0e03a818b69605a570799a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_e4ed95cb2588cf2a4aca6843317c8f825fdc95ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_ab5d5e52858bb5396a25566917421c083f37d693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_6c29d9a8f31281df3df6d0c40fb5aadc723c2dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bd02319f0ee7ab28627052b3fe4519b354a05f21">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ebcb0056c59790f5ed4799de4b989db72f859dea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_8039189dd6364d2f0aa39784512e4db25cf58700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_068a53d952a703059931889cca9c45ddbc5d6878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_dde8a89943d86cd8901d32ce945e5971c8d85d21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\dk out school\BTLandroid\Trytodosth\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_656c397850be60caaa2edb354c0a19386ac02adb.jar" />
+    </item>
+
+</items>
